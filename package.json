@@ -2,7 +2,7 @@
   "name": "obliterate-implicit-cd",
   "displayName": "Obliterate \"implicit cd\"",
   "description": "This extension obliterate \"implicit cd\" from the world.",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "engines": {
     "vscode": "^1.94.0"
   },
@@ -11,8 +11,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/ktbarry/vscode-Obliterate_implicit_cd"
   },
+  "bugs": {
+    "url": "https://github.com/ktbarry/vscode-Obliterate_implicit_cd/issues"
+  },
+  "homepage": "https://github.com/ktbarry/vscode-Obliterate_implicit_cd#readme",
   "activationEvents": [
     "onLanguage:markdown",
     "onLanguage:asciidoc"
