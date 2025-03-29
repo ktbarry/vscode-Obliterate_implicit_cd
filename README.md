@@ -2,7 +2,17 @@
 
 ## Features
 
+### Concepts
+
 This extension obliterates "implicit `cd`" all over the world.
+
+Students or begginer enginners sometimes struggle with installing libraries or applications.
+That's because the instructions of many GitHub softwares are based on common sense.
+To avoid that, the installing instructions should be kind so that their users just have to copy and paste the code blocks on `README.md`.
+
+### Functions
+
+On a markdown file, a warning appears if the first sh/bash/powershell codeblock does not start with `cd`.
 
 ## Requirements
 
@@ -10,14 +20,7 @@ Nothing is required.
 
 ## Extension Settings
 
-Include if your extension adds any VS Code settings through the `contributes.configuration` extension point.
-
-For example:
-
-This extension contributes the following settings:
-
-* `myExtension.enable`: Enable/disable this extension.
-* `myExtension.thing`: Set to `blah` to do something.
+No settings.
 
 ## Known Issues
 
@@ -25,4 +28,4 @@ This extension contributes the following settings:
 
 ### 1.0.0
 
-Initial release of ...
+Initial release of Obliterate Implicit cd.
